@@ -1,0 +1,22 @@
+body{
+    background-image: url(../assets/fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw; 
+}
+.contenedor-1{
+    height: 20vh;
+}
+
+.contenedor-2{
+    height: 10vh;
+}
+
+.contenedor-3{
+    background-color: rgb(255, 251, 251);
+    border-radius: 1em;
+}
+.contenedor3-1{
+    background-color: rgb(137, 136, 136);
+}

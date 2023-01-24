@@ -1,0 +1,52 @@
+body{
+    background-color: aqua;
+}
+.box{
+    background-color: orange;
+}
+.box1{
+    background-color: green;
+    height: 10vh;
+}
+.box2{
+    background-color: blueviolet;
+    height: 50vh;
+}
+.box2-1{
+    background-color: rgb(217, 50, 50);
+}
+.box2-2{
+    background-color: coral;
+}
+.box3{
+    background-color: rgb(233, 22, 162);
+    height: 30vh;
+}
+.box3-1{
+    background-color: darkgray;
+
+}
+.box3-2{
+    background-color: darkkhaki;
+}
+.box3-3{
+    background-color: cadetblue;
+}
+.box3-4{
+    background-color: deeppink;
+    
+}
+.box3-5{
+    background-color: lightslategray;
+    
+}
+.box3-6{
+    background-color: limegreen;
+}
+
+.box4{
+    background-color: rgb(204, 238, 34);
+    height: 10vh;
+}
+
+
